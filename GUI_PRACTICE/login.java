@@ -47,7 +47,7 @@ public class login implements ActionListener {
           System.exit(0);
           });
          loginButton.addActionListener(e -> {
-          JOptionPane.showInputDialog(this, "Patient information saved successfully!");
+          JOptionPane.showInputDialog(this, "Login successfully!");
         });
 
 
